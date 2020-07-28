@@ -3,7 +3,7 @@
 ---
 
 ### About:
-My Name is Marco Steinke and I am a 22 years old CS student from Germany. In my freetime I love to create Web Applications/Websites and also Skating.
+My Name is Marco Steinke and I am a CS student from Germany. In my freetime I love to create Web Applications/Websites and also Skating.
 My main focus is my work in the web. I built a small social network, multiple database applications and also built a forum software in a team of 8.
 
 ---
