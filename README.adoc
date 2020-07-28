@@ -1,7 +1,72 @@
 ### I create Web-Applications and design Websites.
 
+### About:
+My Name is Marco Steinke and I am a 22 years old CS student from Germany. In my freetime I love to create Web Applications/Websites and also Skating.
+My main focus is my work in the web. I built a small social network, multiple database applications and also built a forum software in a team of 8.
+
 ---
 
 ### Projects:
+ 
+ 1️⃣ MovingPoint:
 
 https://www.github.com/maste150hhu/MovingPoint[MovingPoint Game Engine]
+
+http://www.movingpoint.net/[MovingPoint project website]
+
+---
+
+ 2️⃣ Spring Forum:
+ 
+https://github.com/maste150hhu/Spring-Boot-Forum-Application[Repository]
+ 
+ This project was the result of my university-course on "Professional Software Development". 
+ We built this in a team of 8. The goal of this project was to implement a full-stack  application 
+ including Documentation, Arc42, Meetings, Testing, Tactical Design, using virtual containers for 
+ development and deployment, securtiy.
+
+##### Credits to:
+`niruc100` `TuringRs` `smncrm` `mgtgecko`
+`BrenkeSebastian` `valiiscoding` `arbenber`
+
+--- 
+
+### Skills:
+
+[%header,cols=2*] 
+|===
+|Area
+|Experience
+
+|Software Architectures
+|SOLID, Scalability, Testing, Mocking, Onion Architecture, Arch42
+
+|Teaching
+|Job as coding-teacher at the Heinrich-Heine-Universität in Düsseldorf, Germany.
+
+|Database Systems
+|SQL, MySQL, Postgres, RedisDB, H2
+
+|Programming Languages
+|Java, Python, Javascript, PHP
+
+|Web Design
+|Javascript, CSS, Bootstrap, Wordpress, Modern Design Concepts
+
+|Windows System Administration
+|System Setup, Domain User Management, Configuration and Administration of MS Office
+
+|Server Administration
+|Setup of Linux/Windows-Servers, several voice/game-servers, Websites for game-servers
+|===
+
+---
+
+### Contact
+
+https://www.bestofcode.net[ℹ Use the form in the bottom!]
+
+You can send:
+* Web-Design requests
+* Web-Application requests
+* other IT solutions
