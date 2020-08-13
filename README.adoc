@@ -10,15 +10,34 @@ My main focus is my work in the web. I built a small social network, multiple da
 
 ### Projects:
  
- 1️⃣ MovingPoint:
+image::https://github.com/maste150hhu/MovingPoint/blob/master/mov.png[width=600]
 
-https://www.github.com/maste150hhu/MovingPoint[MovingPoint Game Engine]
+#### MovingPoint Game Engine:
+
+A lightweight engine to develop games, animations or simulations. After working a while with GMS, Unity I got trouble by the size of the project files and also of the imported libraries. I wanted to create some small things and firstly need Windows to run Unity and GMS and secondly enough Hardware.
+
+
+The main focus of this project is to create an environment in which programmers can design small games while using a minimal amount of resources.
+
+This engine is developed with the goal of intuitivity, so that a programmer which starts using MovingPoint will be able to use the same structure as in other game engines.
+
+If you want to create small Apps or simple Games (grid based or procedural) you will get a toolkit which includes all required methods and objects to reach your goal.
+
+https://www.github.com/maste150hhu/MovingPoint[get to the repository]
 
 http://www.movingpoint.net/[MovingPoint project website]
 
 ---
 
- 2️⃣ Spring Forum:
+image::https://github.com/maste150hhu/Master-Trainer/blob/master/styles/mastertrain.png[width=600]
+
+Pokemon Master Trainer is developed by a small team of programmers from Germany.
+
+The main motivation of this project is to bring Pokemon everywhere and make it playable on all devices. Sitting in the bus, having spare 5 minutes at home. Playing something the last 30 minutes before going to sleep.
+
+---
+
+#### 3. Spring Forum:
  
 https://github.com/maste150hhu/Spring-Boot-Forum-Application[Repository]
  
