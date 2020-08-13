@@ -29,7 +29,7 @@ http://www.movingpoint.net/[MovingPoint project website]
 
 ---
 
-image::https://github.com/maste150hhu/Master-Trainer/blob/master/styles/mastertrain.png[width=600]
+image::https://github.com/maste150hhu/maste150hhu/blob/master/mastertrain.png[width=600]
 
 Pokemon Master Trainer is developed by a small team of programmers from Germany.
 
