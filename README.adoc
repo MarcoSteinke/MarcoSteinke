@@ -8,43 +8,6 @@ My main focus is my work in the web. I built a small social network, multiple da
 
 ---
 
-### Projects:
- 
-image::https://github.com/maste150hhu/MovingPoint/blob/master/mov.png[width=600]
-
-#### MovingPoint Game Engine:
-
-A lightweight engine to develop games, animations or simulations. After working a while with GMS, Unity I got trouble by the size of the project files and also of the imported libraries. I wanted to create some small things and firstly need Windows to run Unity and GMS and secondly enough Hardware.
-
-https://www.github.com/maste150hhu/MovingPoint[get to the repository]
-
----
-
-image::https://github.com/maste150hhu/maste150hhu/blob/master/mastertrain.png[width=600]
-
-The main motivation of this project is to bring Pokemon everywhere and make it playable on all devices. Sitting in the bus, having spare 5 minutes at home. Playing something the last 30 minutes before going to sleep.
-
-TIP: ℹ Currently there is no demo for this project.
-
-but: You can go to http://www.bestofcode.net/Master-Trainer[this link] to get more information.
-
----
-
-#### 3. Spring Forum:
- 
-https://github.com/maste150hhu/Spring-Boot-Forum-Application[Repository]
- 
- This project was the result of my university-course on "Professional Software Development". 
- We built this in a team of 8. The goal of this project was to implement a full-stack  application 
- including Documentation, Arc42, Meetings, Testing, Tactical Design, using virtual containers for 
- development and deployment, securtiy.
-
-##### Credits to:
-`niruc100` `TuringRs` `smncrm` `mgtgecko`
-`BrenkeSebastian` `valiiscoding` `arbenber`
-
---- 
-
 ### Skills:
 
 [%header,cols=2*] 
@@ -72,6 +35,32 @@ https://github.com/maste150hhu/Spring-Boot-Forum-Application[Repository]
 |===
 
 ---
+
+### Projects:
+ 
+image::https://github.com/maste150hhu/MovingPoint/blob/master/mov.png[width=600]
+
+#### MovingPoint Game Engine:
+
+https://www.github.com/maste150hhu/MovingPoint[get to the repository]
+
+---
+
+image::https://github.com/maste150hhu/maste150hhu/blob/master/mastertrain.png[width=600]
+
+#### Pokémon Browser-Game
+
+You can go to http://www.bestofcode.net/Master-Trainer[this link] to get more information.
+
+---
+
+#### 3. AI supported Security Camera
+ 
+https://github.com/MarcoSteinke/Security-Cam[Visit]
+ 
+This implementation demonstrates a Security-Camera Software which was written in javascript and uses cocossd offered by ml5 to detect objects.
+
+--- 
 
 ### Contact
 
