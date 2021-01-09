@@ -2,8 +2,7 @@
 
 ---
 
-
-*CS student from Germany
+* CS student from Germany
 * Web Applications/Websites
 * small social network
 * multiple database applications
