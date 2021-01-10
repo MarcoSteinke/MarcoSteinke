@@ -3,18 +3,6 @@
 ---
 
 * CS student from Germany
-* Web Applications/Websites
-* small social network
-* multiple database applications
-* built a forum software in a team of 8.
+* Web Applications
 
 ---
-
-### Contact
-
-https://www.bestofcode.net[ℹ Use the form in the bottom!]
-
-You can send:
-* Web-Design requests
-* Web-Application requests
-* other IT solutions
