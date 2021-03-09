@@ -9,6 +9,8 @@
 
 Check out my latest project:
 
+# https://github.com/MarcoSteinke/Security-Cam[go to repository!]
+
 # 📷 Security Cam
 
 ## ⚡ Introduction:
@@ -27,5 +29,3 @@ can not store videos 24/7.
 
 Using Machine Learning, we can tell the camera when it has objects in view and use a lightweight
 backend to store the timestamps and also the type of objects which where detected. 
-
-Find out more https://github.com/MarcoSteinke/Security-Cam[here!]
