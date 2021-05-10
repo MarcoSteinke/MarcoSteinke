@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Spring, your Web Presence, Virtualisation, Networking, Cryptography**
 
-- ❓ You need a website, or e-Commerce? Feel free to contact me!
+- ❓ You need a website, or e-Commerce? You want to setup a Linux server? Feel free to contact me!
 
 - 📫 How to reach me **admin@bestofcode.net**
 
