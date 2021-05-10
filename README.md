@@ -9,7 +9,9 @@
 
 - 🤝 I’m looking for help with [SurvAPI (AI powered surveillance)](https://github.com/MarcoSteinke/survAPI-Surveillance-Camera-Analysis)
 
-- 💬 Ask me about **Spring, Java EE, Virtualisation, Networking, Cryptography**
+- 💬 Ask me about **Spring, your Web Presence, Virtualisation, Networking, Cryptography**
+
+- ❓ You need a website, or e-Commerce? Feel free to contact me!
 
 - 📫 How to reach me **admin@bestofcode.net**
 
