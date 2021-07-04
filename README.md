@@ -3,17 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosteinke" alt="marcosteinke" /></a> </p>
 
-- 🔭 I’m currently working on [SurvAPI (AI powered surveillance)](https://github.com/MarcoSteinke/survAPI-Surveillance-Camera-Analysis)
+### 🔭 I’m currently working on [SurvAPI (AI powered surveillance)](https://github.com/MarcoSteinke/survAPI-Surveillance-Camera-Analysis)
 
-- 🌱 I’m currently learning **Artificial Intelligence, Data Science**
+### 🌱 I’m currently learning **Artificial Intelligence, Data Science**
 
-- 🤝 I’m looking for help with [SurvAPI (AI powered surveillance)](https://github.com/MarcoSteinke/survAPI-Surveillance-Camera-Analysis)
+### 💬 Ask me about **Spring, your Web Presence, Virtualisation, Networking, Cryptography**
 
-- 💬 Ask me about **Spring, your Web Presence, Virtualisation, Networking, Cryptography**
+### ❓ You need a website, or e-Commerce? You want to setup a Linux server? Feel free to contact me!
 
-- ❓ You need a website, or e-Commerce? You want to setup a Linux server? Feel free to contact me!
-
-- 📫 How to reach me **admin@bestofcode.net**
+### 📫 How to reach me **admin@bestofcode.net**
 
 <h3 align="left">📹 Watch my Tutorials:</h3>
 <p align="left">
