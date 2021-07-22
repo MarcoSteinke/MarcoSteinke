@@ -9,8 +9,6 @@
 
 ### 💬 Ask me about **Spring, your Web Presence, Virtualisation, Networking, Cryptography**
 
-### ⭐ A project which will be continued in the future is [lightrate](https://github.com/MarcoSteinke/Iightrate)
-
 ### ❓ You need a website, or e-Commerce? You want to setup a Linux server? Feel free to contact me!
 
 ### 📫 How to reach me **admin@bestofcode.net**
