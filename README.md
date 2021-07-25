@@ -11,9 +11,9 @@
 
 ### ❓ You need a website, or e-Commerce? You want to setup a Linux server? Feel free to contact me!
 
-### 📝 A web design which I created in 2019 [Click here](https://github.com/MarcoSteinke/iphone-webdesign-concept) to download the design!
+### 📝 A web design which I created in 2019 [Click here](https://github.com/MarcoSteinke/iphone-webdesign-concept) to check out the design!
 
-![alt text](https://github.com/MarcoSteinke/iphone-webdesign-concept/blob/main/screenshot.jpg?raw=true ":)")
+<img src="https://github.com/MarcoSteinke/iphone-webdesign-concept/blob/main/screenshot.jpg?raw=true" alt="drawing" width="400"/>
 
 ### 📫 How to reach me **admin@bestofcode.net**
 
