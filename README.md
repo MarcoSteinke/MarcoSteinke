@@ -15,7 +15,7 @@
 
 <img src="https://github.com/MarcoSteinke/iphone-webdesign-concept/blob/main/screenshot.jpg?raw=true" alt="drawing" width="400"/>
 
-### 📫 How to reach me **admin@bestofcode.net**
+### 📫 Contact me **admin@bestofcode.net**
 
 <h3 align="left">📹 Watch my Tutorials:</h3>
 <p align="left">
