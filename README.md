@@ -26,8 +26,3 @@
 </p>
 
 
-### 📝 A web design which I created in 2019 [Click here](https://github.com/MarcoSteinke/iphone-webdesign-concept) to check out the design!
-
-<img src="https://github.com/MarcoSteinke/iphone-webdesign-concept/blob/main/screenshot.jpg?raw=true" alt="drawing" width="400"/>
-
-
