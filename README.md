@@ -18,7 +18,7 @@
 
 ### ❓ You need a website, or e-Commerce? You want to setup a Linux server? Feel free to contact me!
 
-### 📫 Contact me **admin@bestofcode.net**
+### 📫 Contact me via [the form on my website](https://www.steinke-it.com/)
 
 <h3 align="left">📹 Watch my Tutorials:</h3>
 <p align="left">
