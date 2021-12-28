@@ -10,7 +10,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosteinke&show_icons=true&locale=en" alt="marcosteinke" /></p>
 
-### 🔭 I’m currently working on [SurvAPI (AI powered surveillance)](https://github.com/MarcoSteinke/survAPI-Surveillance-Camera-Analysis)
+### 📝 Interested in reading something?
+
+I am creating blog posts and may have an interesting read for you:
+
+- [Text Prediction using Bigrams and Markov Models](https://bestofcode.net/blog/text-prediction/)
+- [Text Generation using the Bigrams from previous post](https://bestofcode.net/blog/text-generation/)
+
+#### Currently writing the following blog post:
+
+- [Using Neural Networks to learn some predictions for political contexts](https://github.com/MarcoSteinke/Machine-Learning-Resources/blob/main/implementation/political-parties/README.adoc#4-3-training-a-neural-network-to-classify-parties)
 
 ### 🌱 I’m currently learning **Artificial Intelligence, Data Science**
 
