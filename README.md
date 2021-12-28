@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marco Steinke</h1>
-<h3 align="center">Specialised in Web Applications and interested in Security and AI</h3>
+<h3 align="center">Creating Web Applications and fascinated by Artificial Intelligence</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosteinke" alt="marcosteinke" /></a> </p>
 
