@@ -10,14 +10,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosteinke&show_icons=true&locale=en" alt="marcosteinke" /></p>
 
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 ### 📝 Interested in reading something?
 
 I am creating blog posts and may have an interesting read for you:
 
 - [Text Prediction using Bigrams and Markov Models](https://bestofcode.net/blog/text-prediction/)
 - [Text Generation using the Bigrams from previous post](https://bestofcode.net/blog/text-generation/)
-
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
 
 #### Currently writing the following blog post:
 
