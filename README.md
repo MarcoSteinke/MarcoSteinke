@@ -17,6 +17,8 @@ I am creating blog posts and may have an interesting read for you:
 - [Text Prediction using Bigrams and Markov Models](https://bestofcode.net/blog/text-prediction/)
 - [Text Generation using the Bigrams from previous post](https://bestofcode.net/blog/text-generation/)
 
+![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+
 #### Currently writing the following blog post:
 
 - [Using Neural Networks to learn some predictions for political contexts](https://github.com/MarcoSteinke/Machine-Learning-Resources/blob/main/implementation/political-parties/README.adoc#4-3-training-a-neural-network-to-classify-parties)
