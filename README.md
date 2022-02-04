@@ -10,8 +10,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosteinke&show_icons=true&locale=en" alt="marcosteinke" /></p>
 
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-
 ### 📝 Interested in reading something?
 
 I am creating blog posts and may have an interesting read for you:
@@ -22,18 +20,4 @@ I am creating blog posts and may have an interesting read for you:
 #### Currently writing the following blog post:
 
 - [Using Neural Networks to learn some predictions for political contexts](https://github.com/MarcoSteinke/Machine-Learning-Resources/blob/main/implementation/political-parties/README.adoc#4-3-training-a-neural-network-to-classify-parties)
-
-### 🌱 I’m currently learning **Artificial Intelligence, Data Science**
-
-### 💬 Ask me about **Spring, your Web Presence, Virtualisation, Networking, Cryptography**
-
-### ❓ You need a website, or e-Commerce? You want to setup a Linux server? Feel free to contact me!
-
-### 📫 Contact me via [the form on my website](https://www.steinke-it.com/)
-
-<h3 align="left">📹 Watch my Tutorials:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UC4q-4UeR-FwkUkueKrI3WVQ" target="blank"><img align="center" src="https://www.svgrepo.com/show/303300/new-youtube-logo-logo.svg" alt="enter YouTube" height="90" width="120" /></a>
-</p>
-
 
