@@ -19,5 +19,5 @@ I am creating blog posts and may have an interesting read for you:
 
 #### Currently writing the following blog post:
 
-- [Using Neural Networks to learn some predictions for political contexts](https://github.com/MarcoSteinke/Machine-Learning-Resources/blob/main/implementation/political-parties/README.adoc#4-3-training-a-neural-network-to-classify-parties)
+- [Using Neural Networks to learn some predictions for political contexts]([https://github.com/MarcoSteinke/Machine-Learning-Resources/blob/main/implementation/political-parties/README.adoc#4-3-training-a-neural-network-to-classify-parties](https://github.com/MarcoSteinke/Machine-Learning-Resources/blob/main/implementation/political-parties/README.adoc#using-neural-networks-to-learn-some-predictions-for-political-contexts))
 
