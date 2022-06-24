@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Steinke</h1>
 <h3 align="center">Creating Web Applications and fascinated by Artificial Intelligence</h3>
 
+<h3 align="left">Currently building a social network to fight vandalism and support officials to keep our cities and parks clean</h3>
+
+<img src="https://raw.githubusercontent.com/MarcoSteinke/MarcoSteinke/master/vanfix.PNG" alt="vanfix">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosteinke" alt="marcosteinke" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
