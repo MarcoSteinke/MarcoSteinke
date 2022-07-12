@@ -9,6 +9,12 @@
 
 <hr>
 
+<h3 align="left">Wir bauen eine parteiunabhängige, politische Lernplattform.</h3>
+
+<a href="https://github.com/nachgefragt-nachgehakt"><img src="https://raw.githubusercontent.com/MarcoSteinke/MarcoSteinke/master/logo_large.png" alt="party"></a>
+
+<hr>
+
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosteinke" alt="marcosteinke" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosteinke&show_icons=true&locale=en&layout=compact" alt="marcosteinke" /></p>-->
