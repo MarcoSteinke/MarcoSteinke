@@ -11,7 +11,7 @@
 
 <h3 align="left">Wir bauen eine parteiunabhängige, politische Lernplattform.</h3>
 
-<a href="https://github.com/nachgefragt-nachgehakt"><img src="https://raw.githubusercontent.com/MarcoSteinke/MarcoSteinke/master/logo_large.png" alt="party"></a>
+<a href="http://nachgefragt-nachgehakt.de/"><img width="500" src="https://raw.githubusercontent.com/MarcoSteinke/MarcoSteinke/master/logo_large.png" alt="party"></a>
 
 <hr>
 
