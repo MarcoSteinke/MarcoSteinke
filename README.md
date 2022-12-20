@@ -3,6 +3,9 @@
 
 <hr>
 
+<h3>Brief summary of ChatGPT:</h3>
+<div><a href="https://github.com/MarcoSteinke/Machine-Learning-Resources/blob/main/ChatGPT.adoc">Click here</a> if you want to read about ChatGPT. Feel free to check out the other resources inside of the linked repository and leave a star, if it is interesting to you, or open an issue and add things, which I should offer resources or examples for.</div>
+
 <h3 align="left">Currently building a social network to fight vandalism and support officials to keep our cities and parks clean</h3>
 
 <a href="https://github.com/VanFix-software"><img src="https://raw.githubusercontent.com/MarcoSteinke/MarcoSteinke/master/vanfix.PNG" alt="vanfix"></a>
