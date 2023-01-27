@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marco Steinke</h1>
 <h3 align="center">Creating Web Applications and fascinated by Artificial Intelligence</h3>
 
-I tried to make standard cameras smart and use them for surveillance, check it out: [`here`](https://github.com/MarcoSteinke/survAPI-Surveillance-Camera-Analysis)
-
 Check out my collection of [`Machine learning resources`](https://github.com/MarcoSteinke/Machine-Learning-Resources)
 
 I am working on a social network, which's first goal is to provide a platform on which citizens and officials can work together, to clean cities and fight vandalism. Get in touch [`here`](https://github.com/vanfix-social-network).
+
+I started to make standard cameras smart and use them for surveillance, check it out: [`here`](https://github.com/MarcoSteinke/survAPI-Surveillance-Camera-Analysis)
 
 Check out my github repositories for project ideas or implementations of foundational concepts of software development and software architecture.
 
