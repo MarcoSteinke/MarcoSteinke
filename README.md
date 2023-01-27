@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marco Steinke</h1>
 <h3 align="center">Creating Web Applications and fascinated by Artificial Intelligence</h3>
 
+Check out my collection of [`Machine learning resources`](https://github.com/MarcoSteinke/Machine-Learning-Resources)
+
+I am working on a social network, which's first goal is to provide a platform on which citizens and officials can work together, to clean cities and fight vandalism. Get in touch [`here`](https://github.com/vanfix-software).
+
 <hr>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosteinke&show_icons=true&locale=en" alt="marcosteinke" /></p>
