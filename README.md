@@ -3,7 +3,7 @@
 
 Check out my collection of [`Machine learning resources`](https://github.com/MarcoSteinke/Machine-Learning-Resources)
 
-I am working on a social network, which's first goal is to provide a platform on which citizens and officials can work together, to clean cities and fight vandalism. Get in touch [`here`](https://github.com/vanfix-software).
+I am working on a social network, which's first goal is to provide a platform on which citizens and officials can work together, to clean cities and fight vandalism. Get in touch [`here`](https://github.com/vanfix-social-network).
 
 <hr>
 
