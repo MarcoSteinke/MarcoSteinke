@@ -11,7 +11,7 @@ Check out my github repositories for project ideas or implementations of foundat
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcosteinke&show_icons=true&locale=en" alt="marcosteinke" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoSteinke&show_icons=true&theme=transparent)
 
 ### 📝 Interested in reading something?
 
