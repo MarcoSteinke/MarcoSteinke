@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco Steinke</h1>
 <h3 align="center">Creating Web Applications and fascinated by Artificial Intelligence</h3>
 
+On this GitHub profile you will find educational projects in the areas of web applications, artificial intelligence and cryptocomplexity.
+
 Check out my collection of [`Machine learning resources`](https://github.com/MarcoSteinke/Machine-Learning-Resources)
 
 I am working on a social network, which's first goal is to provide a platform on which citizens and officials can work together, to clean cities and fight vandalism. Get in touch [`here`](https://github.com/vanfix-social-network).
